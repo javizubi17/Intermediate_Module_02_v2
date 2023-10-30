@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Intermediate_Module_02_v2 - Tagging_CurrentView</Text>
+    <Description>Some description for Intermediate_Module_02_v2</Description>
+    <Assembly>Intermediate_Module_02_v2.dll</Assembly>
+    <FullClassName>Intermediate_Module_02_v2.Tagging_CurrentView</FullClassName>
+    <ClientId>7977C4A6-BC1C-44A9-A827-4147621B0CF3</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Intermediate_Module_02_v2 - Tagging_AllViews</Text>
+    <Description>Some description for Intermediate_Module_02_v2</Description>
+    <Assembly>Intermediate_Module_02_v2.dll</Assembly>
+    <FullClassName>Intermediate_Module_02_v2.Tagging_AllViews</FullClassName>
+    <ClientId>81C03C32-BB7E-4081-9BE9-775F6B8C2212</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Intermediate_Module_02_v2 - Tagging_AllViews</Text>
+    <Description>Some description for Intermediate_Module_02_v2</Description>
+    <Assembly>Intermediate_Module_02_v2.dll</Assembly>
+    <FullClassName>Intermediate_Module_02_v2.Tagging_AllViews</FullClassName>
+    <ClientId>81C03C32-BB7E-4081-9BE9-775F6B8C2212</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Intermediate_Module_02_v2</Name>
+    <Assembly>Intermediate_Module_02_v2.dll</Assembly>
+    <FullClassName>Intermediate_Module_02_v2.App</FullClassName>
+    <ClientId>168B8000-51BE-4B4A-8C10-B7BDED2DC4C3</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
